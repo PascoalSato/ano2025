@@ -3,5 +3,6 @@
 
 Meu nome é Pascoal Sato
 - Material de apoio
-- !()[![image](https://github.com/user-attachments/assets/5dc00b9f-6cb3-4925-a89b-a48ff6f8dc1e)] 
+  ![image](https://github.com/user-attachments/assets/5e4e91b0-1dbc-47f1-92d9-62ce8c36d26a)
+- !()[] 
 
